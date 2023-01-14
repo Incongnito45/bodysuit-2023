@@ -1,8 +1,8 @@
 # `💥𝐛𝐨𝐝𝐲𝐬𝐮𝐢𝐭 𝐚𝐬𝐞𝐬𝐢𝐧𝐨-𝐁𝐎𝐓⛄`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/OFC-ALEX_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/OFC-ALEX_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
