@@ -114,7 +114,7 @@ npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+<a href="https://boxmineworld.com"><img src="https://imgur.io/gallery/UYzkGkt" width="450" height="240" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
 - Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
 - Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
@@ -131,6 +131,6 @@ npm start
 
 
 ## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://imgur.io/a/UYzkGkt" width="250" height="250" alt="YOVANI"/></a>
+<a href="https://github.com/OFC-ALEX"><img src="https://imgur.io/a/UYzkGkt" width="250" height="250" alt="YOVANI"/></a>
   
 `BODYSUIT-ASESINO- By ALEX`
