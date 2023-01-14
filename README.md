@@ -131,6 +131,6 @@ npm start
 
 
 ## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://imgur.com/a/UYzkGkt" width="250" height="250" alt="YOVANI"/></a>
+<a href="https://github.com/OFC-YOVANI"><img src="https://imgur.io/a/UYzkGkt" width="250" height="250" alt="YOVANI"/></a>
   
 `BODYSUIT-ASESINO- By ALEX`
