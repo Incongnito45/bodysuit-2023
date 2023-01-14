@@ -1,136 +1,84 @@
-# `💥𝐛𝐨𝐝𝐲𝐬𝐮𝐢𝐭 𝐚𝐬𝐞𝐬𝐢𝐧𝐨-𝐁𝐎𝐓⛄`
+#🔥 𝘽𝙊𝘿𝙔𝙎𝙐𝙄𝙏 -𝗕𝗢𝗧-𝗠𝗗🔥
+Bot terminado no recibirá más actualizaciones ✨ 
 
-### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/OFC-ALEX_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/OFC-ALEX_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
+[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GiKGCCuQm1GDq3No9dauBR)
 
-### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
+[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IlmNa0htasZDNGaVriSrCQ)
 
-<a href="https://chat.whatsapp.com/Dt2Qzq7Karl6f1FtJsvm0C" target="blank"><img src="https://img.shields.io/badge/GRUPO_MUSICA_ELECTRONICA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
+[![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I4KSkoYf1HzD9EeSgv4CvA)
 
-### `—◉ 🤖 BOTS OFICIALES 🤖`
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtu.be/8Cf60DdyITw)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 
-<a href="https://api.whatsapp.com/send/?phone=573245104054&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+###𝐐𝐮𝐢𝐞𝐫𝐞 𝐭𝐞𝐧𝐞𝐫 𝐮𝐧 𝐛𝐨𝐭 𝟐𝟒/𝟕 𝐚𝐜𝐭𝐢𝐯𝐨
 
- > NO SPAMEAR COMANDOS
+<p align="hihg">   
+<a href="https://portal.acidicnodes.com" target="_blank"> <img src="https://img.shields.io/badge/-AcidicNodes-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
-### `🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+-----
 
-### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
-- PAGINA [Aqui](https://beta.openai.com/playground)
-
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
-
-[![Run on Repl.it](https://repl.it/badge/github/OFC-YOVANI/HATSUNE-MIKU)](https://repl.it/github/OFC-YOVANI/HATSUNE-MIKU)
-
-### `—◉ 💥 ACTIVAR EN KOYEB 💥`
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-YOVANI/HATSUNE-MIKU&branch=master&name=Hatsunemikubot)
-
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU)
-
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/blob/master/config.js)
-
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+###🌱𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗☘️
 ```bash
-pkg update && pkg upgrade
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇」
+├❏pkg update && pkg upgrade
+├❏pkg install git -y
+├❏pkg install nodejs -y
+├❏pkg install ffmpeg -y
+├❏pkg install imagemagick -y
+├❏termux-setup-storage
+├❏git clone https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344
+├❏cd bodysuit_3.0-bot-whassapp_1344
+├❏npm install
+├❏pkg install yarn
+├❏npm update
+├❏yarn
+├❏npm install
+├❏npm start
+└────ׂ─ׂ─ׂ─ׂ───
 ```
-
+### `NOTAS`
 ```bash
-pkg install git -y
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Para activar algunos comandos como 
+├❏el #añadir y #sacar el propietario del 
+├❏Bot debera usar el comando #enable restrict 
+├❏desde el numero que haya puesto en el archivo 
+├❏config.js
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
+├❏> cd bodysuit_3.0-bot-whassapp_1344
+├❏> rm -rf session.data.json
+├❏> npm start 
+└────ׂ─ׂ─ׂ─ׂ───
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Si el termux se cierra para volver activar escribe:
+├❏> cd bodysuit_3.0-bot-whassapp_1344
+├❏> npm start 
+└────ׂ─ׂ─ׂ─ׂ───
+├❏> Cada vez que realices una modificacion en el
+repositorio del Bot (tu GitHub), puedes usar 
+el comando #actualizar para que se actualicen los datos
+└────ׂ─ׂ─ׂ─ׂ───
+├❏> Aconsejable maximo 30 grupos, despues 
+de esa cantidad el Bot empieza a ir 
+excesivamente lento (depende del WhatsApp igual)
+└────ׂ─ׂ─ׂ─ׂ───
 ```
+### `AJUSTES`
+- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344)
+> ##### WhatsApp recomendado por el creador del Bot
+* [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/o80pni1rfi0n6zz/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_PRIMARIO.apk/file).
 
+* [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file).
+## `PORPIETARIO DEL BOT` 
+[![Alex bodysuit1212](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344/blob/b973ff8417fb82bc43c9622232fcb36d683690a6/Menu2.jpg)](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344) 
 ```bash
-pkg install nodejs -y
+
+
+
+
+
+`OFC-Alex ___bodysuit-BOT-MDV2"` 
 ```
-
-```bash
-pkg install ffmpeg -y
-```
-
-```bash
-pkg install imagemagick -y
-```
-
-```bash
-termux-setup-storage
-```
-
-```bash
-git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU.git
-```
-
-```bash
-cd HATSUNE-MIKU
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
-```
-
-```bash
-npm start
-```
-
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
-
-### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
-
-```bash
-> cd HATSUNE-MIKU
-```
-
-```bash
-> npm start
-```
-
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A HADES-BOT-MD $`
-
-### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
-
-```bash
-> cd HATSUNE-MIKU
-```
-
-```bash
-> rm -rf session.data.json
-```
-
-```bash
-> npm start
-```
-
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://imgur.io/gallery/UYzkGkt" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/Gn-ESCcdFGw)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
-### `—◉ 📝 NOTAS 📝`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- HATSUNE-MIKU - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
-
-
-## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-ALEX"><img src="https://imgur.io/a/UYzkGkt" width="250" height="250" alt="YOVANI"/></a>
-  
-`BODYSUIT-ASESINO- By ALEX`
